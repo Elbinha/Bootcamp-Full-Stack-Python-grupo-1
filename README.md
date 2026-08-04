@@ -40,8 +40,6 @@ El **SGMO** es una aplicación desarrollada en consola (Python) diseñada para a
 </tr>
 </table>
 
----
-
 <table>
   <tr>
     <td align="center">
@@ -50,7 +48,6 @@ El **SGMO** es una aplicación desarrollada en consola (Python) diseñada para a
     </td>
   </tr>
 
-  ---
   
   <tr>
     <td align="center">
@@ -60,7 +57,6 @@ El **SGMO** es una aplicación desarrollada en consola (Python) diseñada para a
   </tr>
 </table>
 
----
 
 # Video Demostrativo
 
