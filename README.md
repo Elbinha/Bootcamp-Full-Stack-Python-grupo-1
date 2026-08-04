@@ -61,6 +61,8 @@ El **SGMO** es una aplicación desarrollada en consola (Python) diseñada para a
 
 # 🎥 Video Demostrativo
 
+https://youtu.be/_oUB25FbfL0
+
 
 ## 🧩 Arquitectura y Modularidad (Estándar PEP 8)
 El código fuente está estructurado de manera modular para separar responsabilidades y facilitar la mantenibilidad:
