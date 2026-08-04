@@ -33,7 +33,7 @@ El **SGMO** es una aplicación desarrollada en consola (Python) diseñada para a
 <tr>
 <td align="center">
 <b>Menú Principal</b><br>
-<img src="<img width="218" height="341" alt="image" src="https://github.com/user-attachments/assets/c360798e-2906-424d-81cb-7e2dfdd1448b" />" width="450">
+<img src="<img width="218" height="341" alt="image" src="https://github.com/user-attachments/assets/c360798e-2906-424d-81cb-7e2dfdd1448b" />" 
 </td>
 
 ---
@@ -42,7 +42,7 @@ El **SGMO** es una aplicación desarrollada en consola (Python) diseñada para a
 
 <td align="center">
 <b>Carga desde CSV</b><br>
-<img src="<img width="412" height="130" alt="image" src="https://github.com/user-attachments/assets/ac0744ee-998c-4dd2-bd52-9dcc7b8e103a" />" width="350">
+<img src="<img width="412" height="130" alt="image" src="https://github.com/user-attachments/assets/ac0744ee-998c-4dd2-bd52-9dcc7b8e103a" />"
 </td>
 </tr>
 
@@ -53,7 +53,7 @@ El **SGMO** es una aplicación desarrollada en consola (Python) diseñada para a
 <tr>
 <td colspan="2" align="center">
 <b>Resultado del procesamiento</b><br>
-<img src="<img width="263" height="80" alt="image" src="https://github.com/user-attachments/assets/6954e437-bec6-4422-9c13-979684e41c6c" />" width="450">
+<img src="<img width="263" height="80" alt="image" src="https://github.com/user-attachments/assets/6954e437-bec6-4422-9c13-979684e41c6c" />" 
 </td>
 </tr>
 </table>
