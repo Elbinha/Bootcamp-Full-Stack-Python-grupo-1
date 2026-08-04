@@ -25,9 +25,9 @@ Capturas
 
 <img width="218" height="341" alt="image" src="https://github.com/user-attachments/assets/c360798e-2906-424d-81cb-7e2dfdd1448b" />
 
- <img width="312" height="130" alt="image" src="https://github.com/user-attachments/assets/ac0744ee-998c-4dd2-bd52-9dcc7b8e103a" />
+ <img width="412" height="130" alt="image" src="https://github.com/user-attachments/assets/ac0744ee-998c-4dd2-bd52-9dcc7b8e103a" />
 
- <img width="563" height="80" alt="image" src="https://github.com/user-attachments/assets/6954e437-bec6-4422-9c13-979684e41c6c" />
+ <img width="263" height="80" alt="image" src="https://github.com/user-attachments/assets/6954e437-bec6-4422-9c13-979684e41c6c" />
  
 ---
 
