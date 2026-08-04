@@ -19,13 +19,14 @@ El **SGMO** es una aplicación desarrollada en consola (Python) diseñada para a
 
 ---
 
-# Tecnologías 
-* `Python
+# 🛠 Tecnologías 
+* Python
 * CSV
+* Programación Modular
 * GIT
 * GitHub
 ---
-# Capturas del sistema
+# 🖼 Capturas del sistema
 
 ### Menú principal
 
@@ -58,7 +59,7 @@ El **SGMO** es una aplicación desarrollada en consola (Python) diseñada para a
 </table>
 
 
-# Video Demostrativo
+# 🎥 Video Demostrativo
 
 
 ## 🧩 Arquitectura y Modularidad (Estándar PEP 8)
@@ -79,5 +80,5 @@ El código fuente está estructurado de manera modular para separar responsabili
    python main.py
 ---
 
-   **Autor:** Elba Neira Arévalo  
+ 😊 **Autor:** 👩‍💻 Elba Neira Arévalo  
 **Curso / Módulo:** Desarrollo de Aplicaciones Full Stack Python (Grupo 1)  
