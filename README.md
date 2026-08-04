@@ -33,13 +33,18 @@ El **SGMO** es una aplicación desarrollada en consola (Python) diseñada para a
 <tr>
 <td align="center">
 <b>Menú Principal</b><br>
-<img src="<img width="218" height="341" alt="image" src="https://github.com/user-attachments/assets/c360798e-2906-424d-81cb-7e2dfdd1448b" />" 
+
+<img src="https://github.com/user-attachments/assets/c360798e-2906-424d-81cb-7e2dfdd1448b" width="220">
+
 </td>
+</tr>
+</table>
 
 ---
 
 ### Carga de trabajadores desde CSV
 
+<tr>
 <td align="center">
 <b>Carga desde CSV</b><br>
 <img src="<img width="412" height="130" alt="image" src="https://github.com/user-attachments/assets/ac0744ee-998c-4dd2-bd52-9dcc7b8e103a" />"
