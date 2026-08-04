@@ -2,9 +2,6 @@
 ¿ Qué hace?
 Procesa automáticamente la nómina de trabajadores de contratos de obras viales.
 
-**Autor:** Elba Neira Arévalo  
-**Curso / Módulo:** Desarrollo de Aplicaciones Full Stack Python (Grupo 1)  
-
 ---
 
 ## 📋 Descripción del Proyecto
@@ -21,23 +18,50 @@ El **SGMO** es una aplicación desarrollada en consola (Python) diseñada para a
 6. **Manejo de Errores (Resiliencia):** Control de excepciones (como `FileNotFoundError`) para evitar caídas del sistema ante rutas de archivos inválidas.
 
 ---
-Capturas
 
-<img width="218" height="341" alt="image" src="https://github.com/user-attachments/assets/c360798e-2906-424d-81cb-7e2dfdd1448b" />
-
- <img width="412" height="130" alt="image" src="https://github.com/user-attachments/assets/ac0744ee-998c-4dd2-bd52-9dcc7b8e103a" />
-
- <img width="263" height="80" alt="image" src="https://github.com/user-attachments/assets/6954e437-bec6-4422-9c13-979684e41c6c" />
- 
----
-
-Tecnologías 
+# Tecnologías 
 * `Python
 * CSV
 * GIT
 * GitHub
-  
 ---
+# Capturas del sistema
+
+### Menú principal
+
+<table>
+<tr>
+<td align="center">
+<b>Menú Principal</b><br>
+<img src="<img width="218" height="341" alt="image" src="https://github.com/user-attachments/assets/c360798e-2906-424d-81cb-7e2dfdd1448b" />" width="450">
+</td>
+
+---
+
+### Carga de trabajadores desde CSV
+
+<td align="center">
+<b>Carga desde CSV</b><br>
+<img src="<img width="412" height="130" alt="image" src="https://github.com/user-attachments/assets/ac0744ee-998c-4dd2-bd52-9dcc7b8e103a" />" width="350">
+</td>
+</tr>
+
+---
+
+### Resultado del procesamiento
+
+<tr>
+<td colspan="2" align="center">
+<b>Resultado del procesamiento</b><br>
+<img src="<img width="263" height="80" alt="image" src="https://github.com/user-attachments/assets/6954e437-bec6-4422-9c13-979684e41c6c" />" width="450">
+</td>
+</tr>
+</table>
+
+---
+
+# Video Demostrativo
+
 
 ## 🧩 Arquitectura y Modularidad (Estándar PEP 8)
 El código fuente está estructurado de manera modular para separar responsabilidades y facilitar la mantenibilidad:
@@ -55,3 +79,7 @@ El código fuente está estructurado de manera modular para separar responsabili
 3. **Ejecutar la aplicación** desde la terminal de tu entorno (VS Code o similar):
    ```bash
    python main.py
+---
+
+   **Autor:** Elba Neira Arévalo  
+**Curso / Módulo:** Desarrollo de Aplicaciones Full Stack Python (Grupo 1)  
