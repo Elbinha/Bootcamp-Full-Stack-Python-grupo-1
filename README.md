@@ -1,4 +1,6 @@
 # 🏗️ SGMO - Sistema Automatizado de Gestión de Mano de Obra
+¿ Qué hace?
+Procesa automáticamente la nómina de trabajadores de contratos de obras viales.
 
 **Autor:** Elba Neira Arévalo  
 **Curso / Módulo:** Desarrollo de Aplicaciones Full Stack Python (Grupo 1)  
@@ -18,8 +20,23 @@ El **SGMO** es una aplicación desarrollada en consola (Python) diseñada para a
 5. **Exportación de Informes:** Generación de un archivo `.csv` consolidado con toda la nómina procesada en el periodo.
 6. **Manejo de Errores (Resiliencia):** Control de excepciones (como `FileNotFoundError`) para evitar caídas del sistema ante rutas de archivos inválidas.
 
-    <img width="312" height="130" alt="image" src="https://github.com/user-attachments/assets/ac0744ee-998c-4dd2-bd52-9dcc7b8e103a" />
+---
+Capturas
 
+<img width="218" height="341" alt="image" src="https://github.com/user-attachments/assets/c360798e-2906-424d-81cb-7e2dfdd1448b" />
+
+ <img width="312" height="130" alt="image" src="https://github.com/user-attachments/assets/ac0744ee-998c-4dd2-bd52-9dcc7b8e103a" />
+
+ <img width="563" height="80" alt="image" src="https://github.com/user-attachments/assets/6954e437-bec6-4422-9c13-979684e41c6c" />
+ 
+---
+
+Tecnologías 
+* `Python
+* CSV
+* GIT
+* GitHub
+  
 ---
 
 ## 🧩 Arquitectura y Modularidad (Estándar PEP 8)
@@ -28,8 +45,6 @@ El código fuente está estructurado de manera modular para separar responsabili
 * `gestor_datos.py`: Lógica para la carga de archivos, almacenamiento en la Lista Maestra y exportación.
 * `validador.py`: Reglas de validación de entradas y formatos (como RUT y normalización de textos con `.strip()` y `.upper()`).
 * `clasificador.py`: Lógica de asignación de categorías según el cargo del trabajador.
-
-    <img width="563" height="80" alt="image" src="https://github.com/user-attachments/assets/6954e437-bec6-4422-9c13-979684e41c6c" />
 
 ---
 
