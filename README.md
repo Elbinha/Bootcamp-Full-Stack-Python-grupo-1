@@ -49,6 +49,9 @@ El **SGMO** es una aplicación desarrollada en consola (Python) diseñada para a
       <img src="https://github.com/user-attachments/assets/ac0744ee-998c-4dd2-bd52-9dcc7b8e103a" width="412" alt="Carga desde CSV" />
     </td>
   </tr>
+
+  ---
+  
   <tr>
     <td align="center">
       <b>Resultado del procesamiento</b><br>
