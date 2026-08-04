@@ -42,8 +42,6 @@ El **SGMO** es una aplicación desarrollada en consola (Python) diseñada para a
 
 ---
 
-### Carga de trabajadores desde CSV
-
 <tr>
 <td align="center">
 <b>Carga desde CSV</b><br>
@@ -52,8 +50,6 @@ El **SGMO** es una aplicación desarrollada en consola (Python) diseñada para a
 </tr>
 
 ---
-
-### Resultado del procesamiento
 
 <tr>
 <td colspan="2" align="center">
